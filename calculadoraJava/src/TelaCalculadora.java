@@ -4,7 +4,7 @@ public class TelaCalculadora {
     private JTextField textField1;
     private JPanel PNLTelaCalculadora;
     private JButton a00Button;
-    private JButton a0Button;
+    private JButton btn0;
     private JButton button4;
     private JButton a3Button;
     private JButton a2Button;
