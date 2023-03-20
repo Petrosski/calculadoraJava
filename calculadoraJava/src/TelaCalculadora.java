@@ -6,7 +6,7 @@ public class TelaCalculadora {
     private JButton btn00;
     private JButton btn0;
     private JButton btnIgual;
-    private JButton a3Button;
+    private JButton btn3;
     private JButton a2Button;
     private JButton a1Button;
     private JButton button9;
