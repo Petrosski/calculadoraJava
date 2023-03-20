@@ -5,7 +5,7 @@ public class TelaCalculadora {
     private JPanel PNLTelaCalculadora;
     private JButton btn00;
     private JButton btn0;
-    private JButton button4;
+    private JButton btnIgual;
     private JButton a3Button;
     private JButton a2Button;
     private JButton a1Button;
