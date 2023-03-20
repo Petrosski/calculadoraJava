@@ -3,7 +3,7 @@ import javax.swing.*;
 public class TelaCalculadora {
     private JTextField textField1;
     private JPanel PNLTelaCalculadora;
-    private JButton a00Button;
+    private JButton btn00;
     private JButton btn0;
     private JButton button4;
     private JButton a3Button;
